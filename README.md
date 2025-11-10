@@ -37,7 +37,7 @@ Below are some of my key projects developed during my career break (2023–2024)
 - Implemented **container security automation** using Trivy (vulnerability scanning), Snyk (dependency scanning), and Cosign (image signing).  
 - Added **SBOM generation** and **AI-driven alerting** via Slack and Email for proactive vulnerability notifications.  
 - Achieved **40% faster vulnerability detection** and improved secure delivery velocity.  
-- 📦 [GitHub Repository](#)
+📦 [GitHub Repository](https://github.com/stackcouture/devsecops-gitops-automation)
 
 ---
 
@@ -47,7 +47,7 @@ Below are some of my key projects developed during my career break (2023–2024)
 - Containerized legacy **PHP applications** using Docker Compose, streamlining environment consistency and deployment.  
 - Integrated **AWS Secrets Manager** for secure secret retrieval and rotation during runtime, eliminating hardcoded credentials.  
 - Reduced deployment errors by **30%** and improved environment setup speed by **50%** through automation.  
-- 📦 [GitHub Repository](#)
+ 📦 [GitHub Repository](https://github.com/stackcouture/php-project)
 
 ---
 
@@ -57,7 +57,7 @@ Below are some of my key projects developed during my career break (2023–2024)
 - Automated **AWS infrastructure provisioning** using Terraform with OIDC-based authentication to GitHub Actions (no static credentials).  
 - Enhanced **security, scalability, and reproducibility** across environments.  
 - Reduced provisioning time and human error through fully automated IaC workflows.  
-- 📦 [GitHub Repository](#)
+- 📦 [GitHub Repository](https://github.com/stackcouture/terraform-projects-portfolio)
 
 ---
 
@@ -67,7 +67,7 @@ Below are some of my key projects developed during my career break (2023–2024)
 - Built **secure CI/CD pipelines** deploying containerized workloads to AWS ECS via Terraform-managed infrastructure.  
 - Integrated **Trivy** and **Snyk** scans into the pipeline for automated image and dependency vulnerability checks.  
 - Decreased deployment time by **50%** and reduced configuration drift by **35%** using infrastructure automation.  
-- 📦 [GitHub Repository](#)
+ 📦 [GitHub Repository](https://github.com/stackcouture/aws-ecs-proj)
 
 ---
 
@@ -77,7 +77,7 @@ Below are some of my key projects developed during my career break (2023–2024)
 - Developed a **serverless, event-driven architecture** fetching live weather data via API Gateway and Lambda.  
 - Stored results in DynamoDB for real-time retrieval, applying **least-privilege IAM roles** and **CORS-enabled REST endpoints**.  
 - Achieved **40% faster data retrieval** and **30% cost reduction** via a fully scalable, zero-maintenance design.  
-- 📦 [GitHub Repository](#)
+- 📦 [GitHub Repository](https://github.com/stackcouture/serverless-real-time-weather-app)
 
 ---
 
