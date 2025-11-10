@@ -80,6 +80,19 @@ Below are some of my key projects developed during my career break (2023–2024)
 - 📦 [GitHub Repository](https://github.com/stackcouture/serverless-real-time-weather-app)
 
 ---
+### 🛡️ 6. Kyverno Policy — Kubernetes Policy Automation
+**Tech Stack:** Kubernetes, Kyverno, YAML, ClusterPolicy, NetworkPolicy 
+
+- Implemented **Kyverno policies** to enforce, mutate, and generate Kubernetes resources using    
+  YAML — no coding required.  
+- Built **ClusterPolicies** to automatically create and validate NetworkPolicies, ensuring 
+  namespace-level security and compliance.  
+- Designed rules to **enforce Pod security standards**, auto-generate missing labels, and block 
+  insecure configurations.  
+- Strengthened cluster governance and **reduced security misconfigurations** through automated   
+  policy enforcement.  
+📦 [GitHub Repository](https://github.com/stackcouture/kyverno-policy)
+---
 
 > 🧠 Each project demonstrates real-world DevOps and Cloud automation practices — combining Infrastructure as Code (IaC), Security (DevSecOps), GitOps workflows, and Cloud-native architecture.
 
