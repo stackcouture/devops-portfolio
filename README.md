@@ -57,7 +57,7 @@ Below are some of my key projects developed during my career break (2023–2024)
 - Automated **AWS infrastructure provisioning** using Terraform with OIDC-based authentication to GitHub Actions (no static credentials).  
 - Enhanced **security, scalability, and reproducibility** across environments.  
 - Reduced provisioning time and human error through fully automated IaC workflows.  
-- 📦 [GitHub Repository](https://github.com/stackcouture/terraform-projects-portfolio)
+ 📦 [GitHub Repository](https://github.com/stackcouture/terraform-projects-portfolio)
 
 ---
 
