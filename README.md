@@ -5,12 +5,12 @@ During my **career break (Dec 2024 – Present)**, I focused on deepening my exp
 Each repository demonstrates **practical implementations** of:
 
 - **CI/CD Automation** – End-to-end pipelines with secure build, test, and deploy workflows.  
-- **Infrastructure as Code (IaC)** – Automated infrastructure provisioning using Terraform and CloudFormation.  
+- **Infrastructure as Code (IaC)** – Automated infrastructure provisioning using Terraform.
 - **Containerization & Orchestration** – Dockerized workloads orchestrated on Kubernetes (EKS/ECS).  
 - **GitOps Workflows** – Continuous deployment and environment management using ArgoCD & Helm.  
-- **Security Automation** – Vulnerability scanning, image signing, and policy enforcement with Trivy, Cosign and OPA.  
+- **Security Automation** – Vulnerability scanning, image signing and policy enforcement with Trivy, Cosign and OPA.  
 
-> 💡 These projects reflect my continuous learning, hands-on problem-solving, and automation-first approach to modern DevOps and cloud engineering.
+> 💡 These projects reflect my continuous learning, hands-on problem-solving and automation-first approach to modern DevOps and cloud engineering.
 
 ---
 
