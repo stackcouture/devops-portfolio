@@ -15,12 +15,12 @@ Each repository demonstrates **practical implementations** of:
 ---
 
 ### 🧠 Focus Areas
-- Cloud Platforms: AWS, GCP and Azure (Foundational)
+- Cloud Platforms: AWS
 - CI/CD: Jenkins, GitHub Actions, ArgoCD, Helm
 - IaC: Terraform
 - Containerization: Docker, Kubernetes (EKS/ECS)
 - Security: Trivy, Cosign, Snyk, SBOM generation
-- Observability: Prometheus, Grafana, ELK Stack
+- Observability: Prometheus, Grafana
 
 ---
 
