@@ -74,10 +74,13 @@ Below are some of my key projects developed during my career break (2023–2024)
 #### ⚡ 5. Serverless Real-Time Weather App
 **Tech Stack:** AWS Lambda (Python), API Gateway, DynamoDB, OpenWeather API, IAM, CORS  
 
-- Developed a **serverless, event-driven architecture** fetching live weather data via API Gateway and Lambda.  
-- Stored results in DynamoDB for real-time retrieval, applying **least-privilege IAM roles** and **CORS-enabled REST endpoints**.  
-- Achieved **40% faster data retrieval** and **30% cost reduction** via a fully scalable, zero-maintenance design.  
-- 📦 [GitHub Repository](https://github.com/stackcouture/serverless-real-time-weather-app)
+- Developed a **serverless, event-driven architecture** fetching live weather data via API Gateway 
+  and Lambda.  
+- Stored results in DynamoDB for real-time retrieval, applying **least-privilege IAM roles** and   
+  **CORS-enabled REST endpoints**.  
+- Achieved **40% faster data retrieval** and **30% cost reduction** via a fully scalable, 
+  zero-maintenance design.  
+  📦 [GitHub Repository](https://github.com/stackcouture/serverless-real-time-weather-app)
 
 ---
 ### 🛡️ 6. Kyverno Policy — Kubernetes Policy Automation
@@ -92,10 +95,20 @@ Below are some of my key projects developed during my career break (2023–2024)
 - Strengthened cluster governance and **reduced security misconfigurations** through automated   
   policy enforcement.  
 📦 [GitHub Repository](https://github.com/stackcouture/kyverno-policy)
+
 ---
 
-> 🧠 Each project demonstrates real-world DevOps and Cloud automation practices — combining Infrastructure as Code (IaC), Security (DevSecOps), GitOps workflows, and Cloud-native architecture.
+### 🔄 7. Kubernetes Config & Secret Reloader — Stakater Reloader Automation
+**Tech Stack:** Kubernetes, Stakater Reloader, Helm, ConfigMap, Secret, GitOps  
 
+- Implemented **automated reload mechanism** in Kubernetes to restart pods when ConfigMaps or 
+  Secrets are updated — powered by **Stakater Reloader**.  
+- Demonstrated how Reloader **detects configuration changes** and triggers rolling restarts for 
+  Deployments, StatefulSets or DaemonSets, ensuring apps always run with the latest configuration.  
+- Built complete manifests for namespace, RBAC, deployment and reloader setup.   
+- Enabled **zero-downtime configuration rollouts** and simplified secret rotation by integrating  
+  with external secret stores.  
+ 📦 [GitHub Repository](https://github.com/stackcouture/k8s-reloader)
 ---
 
 ### 🔗 Explore More
