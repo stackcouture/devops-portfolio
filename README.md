@@ -41,17 +41,7 @@ Below are some of my key projects developed during my career break (2023–2024)
 
 ---
 
-#### 🐳 2. PHP Docker & AWS Secrets Manager
-**Tech Stack:** Docker, Docker Compose, PHP, AWS Secrets Manager, GitHub Actions  
-
-- Containerized legacy **PHP applications** using Docker Compose, streamlining environment consistency and deployment.  
-- Integrated **AWS Secrets Manager** for secure secret retrieval and rotation during runtime, eliminating hardcoded credentials.  
-- Reduced deployment errors by **30%** and improved environment setup speed by **50%** through automation.  
- 📦 [GitHub Repository](https://github.com/stackcouture/php-project)
-
----
-
-#### ☁️ 3. AWS Cloud Infrastructure Projects (Terraform)
+#### ☁️ 2. AWS Cloud Infrastructure Projects (Terraform)
 **Tech Stack:** Terraform, AWS, GitHub Actions (OIDC), IAM  
 
 - Automated **AWS infrastructure provisioning** using Terraform with OIDC-based authentication to GitHub Actions (no static credentials).  
@@ -61,7 +51,7 @@ Below are some of my key projects developed during my career break (2023–2024)
 
 ---
 
-#### 🧩 4. AWS ECS DevOps Project
+#### 🧩 3. AWS ECS DevOps Project
 **Tech Stack:** GitHub Actions, Docker, Terraform, ECS, ECR, Trivy, Snyk  
 
 - Built **secure CI/CD pipelines** deploying containerized workloads to AWS ECS via Terraform-managed infrastructure.  
@@ -71,7 +61,7 @@ Below are some of my key projects developed during my career break (2023–2024)
 
 ---
 
-#### ⚡ 5. Serverless Real-Time Weather App
+#### ⚡ 4. Serverless Real-Time Weather App
 **Tech Stack:** AWS Lambda (Python), API Gateway, DynamoDB, OpenWeather API, IAM, CORS  
 
 - Developed a **serverless, event-driven architecture** fetching live weather data via API Gateway 
@@ -83,7 +73,7 @@ Below are some of my key projects developed during my career break (2023–2024)
   📦 [GitHub Repository](https://github.com/stackcouture/serverless-real-time-weather-app)
 
 ---
-### 🛡️ 6. Kyverno Policy — Kubernetes Policy Automation
+### 🛡️ 5. Kyverno Policy — Kubernetes Policy Automation
 **Tech Stack:** Kubernetes, Kyverno, YAML, ClusterPolicy, NetworkPolicy 
 
 - Implemented **Kyverno policies** to enforce, mutate, and generate Kubernetes resources using    
@@ -98,7 +88,7 @@ Below are some of my key projects developed during my career break (2023–2024)
 
 ---
 
-### 🔄 7. Kubernetes Config & Secret Reloader — Stakater Reloader Automation
+### 🔄 6. Kubernetes Config & Secret Reloader — Stakater Reloader Automation
 **Tech Stack:** Kubernetes, Stakater Reloader, Helm, ConfigMap, Secret, GitOps  
 
 - Implemented **automated reload mechanism** in Kubernetes to restart pods when ConfigMaps or 
